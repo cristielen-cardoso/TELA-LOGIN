@@ -19,7 +19,7 @@ Eu sou apaixonada por tecnologia e estou constantemente buscando expandir meu co
           
 </div>
 
-  ##
+  ## Confira mais sobre mim em:
  
 <div> 
 <a href="https://www.linkedin.com/in/cristielen-fernanda-cardoso/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
